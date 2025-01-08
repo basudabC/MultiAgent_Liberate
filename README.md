@@ -10,7 +10,7 @@ The system is built to:
 2. Aggregate data from diverse sources like Google, Crunchbase, and Reddit.
 3. Analyze sentiment, perform SWOT analyses, and synthesize insights.
 4. Generate actionable reports for business decision-making.
-
+   [Multi-Agent System Interactions](https://drive.google.com/file/d/1PyWTn-HXUzkEWHXnAsUfSg5DPz1ihQjx/view?usp=sharing)
 ---
 ## **Run the project**
 Install the necessary dependencies:
