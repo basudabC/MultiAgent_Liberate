@@ -12,7 +12,20 @@ The system is built to:
 4. Generate actionable reports for business decision-making.
 
 ---
+## **Run the project**
+Install the necessary dependencies:
+pip install -r requirements.txt
+ API keys:
 
+A dot.env file is included in the project.
+Make sure to remove the **dot** from the file name so that it is recognized as **.env**.
+All of the API keys included in the dot.env file.
+Run the project: You can also run the project in Google Colab: [Google Colab Link](https://colab.research.google.com/drive/19sEmpqi2u-EQuyobtbkcTcrWl5FiCjOi?usp=sharing)
+
+If you're using Colab:
+
+Open the provided Google Colab link.
+Follow the instructions inside the Colab notebook to set up and run the project.
 ## **System Architecture**
 
 ### **Agents Overview**
